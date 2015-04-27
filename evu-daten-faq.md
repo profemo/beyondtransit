@@ -31,6 +31,8 @@ Die Bereitstellung offener Daten hat bislang in vielen Bereichen zur Entwicklung
 
 Ein EVU kann so indirekt die Ausweitung der Angebotspalette innovativer Mobilitätsanwendungen fördern, die auch seinen eigenen Kund_innen zugute kommen.
 
+Hinzukommt das eine restriktive und kostspielige Weitergabe von Datensätzen große Unternehmer bevorzugt. Diese können durch ihre Finanzkraft Deutschlandweit alle Datensätze aufkaufen und in ihre Produkte einspeisen. Dadurch entstehen Monopolstrukturen und eine Abhängigkeit der EVU in zukünftigen Verhandlungen, wie die zu Konditionen von Schnittstellen zum Ticketverkauf in Apps von Drittanbietern.
+
 ## Für wen könnte die Bereitstellung interessant werden?
 
 Die Bereitstellung kann letztlich für vier Gruppen interessant sein:
