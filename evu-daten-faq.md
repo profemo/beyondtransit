@@ -21,7 +21,7 @@ Wirkliche Rohdaten haben bisweilen den Nachteil, dass sie schwierig zu interpret
 
 Für Sollfahrplandaten hat sich das GTFS-Format als de-facto-Standard etabliert. Da die auf Google Transit bereitgestellten GTFS-Daten nicht immer perfekt exportiert zu sein scheinen, böte sich auch das intern verwendete Austauschformat (vermutlich HAFAS) samt einer Dokumentation an. Die Open-Data-Community würde sich in diesem Fall selbst um eine Konversion kümmern. Dieser Weg wird z.B. in den Niederlanden gegangen.
 
-Auch in der Schweiz werden die Daten von der SBB [als HAFAS-Rohdaten-Format publiziert](http://fahrplanfelder.ch/fahrplandaten) (eine Doku liegt ebenfalls dort). Die Daten werden von einer unabhängigen Stelle [regelmässig auf GTFS umgerechnet](http://gtfs.geops.ch), wobei auch komplexere Modellierungsfälle wie Flügelungen berücksichtigt werden.
+Auch in der Schweiz werden die Daten von der SBB [als HAFAS-Rohdaten-Format publiziert](http://fahrplanfelder.ch/fahrplandaten) (eine Doku liegt ebenfalls dort). Die Daten werden von einer unabhängigen Stelle [regelmäßig auf GTFS umgerechnet](http://gtfs.geops.ch), wobei auch komplexere Modellierungsfälle wie Flügelungen berücksichtigt werden.
 
 Theoretisch besteht die Möglichkeit, mit Linked Data verschiedene Datenquellen semantisch zu verknüpfen. Hierbei wird das Datenformat mit Semantikinformationen angereichert.
 
@@ -61,7 +61,7 @@ Zudem leben viele (freie) Projekte vom Austausch –  beispielsweise, indem inte
 
 Die Open-Data-Community könnte idealerweise auf einen verlässlichen Datenbestand zurückgreifen und ggf. sogar die Datenqualität des Anbieters verbessern. Viele interessante Daten sind bereits jetzt durch Interessierte per Crowdsourcing gesammelt worden und auf Plattformen wie Wikipedia, OpenStreetMap oder einschlägigen Foren (drehscheibe-online etc.) in verschiedenen Formaten und verschiedener Qualität verfügbar.
 
-Durch eine offizielle Bereitstellung relevanter Daten würde dieser Datenbestand idealerweise 1.) größer, 2.) regelmäßiger und ggf. zuverlässiger aktualisiert. Gerade für Anwendungen, die über ein Prototypenstadius hinaus wachsen möchten, ist eine regelmäßig aktualisierte und verlässliche Datenquelle wichtig. Eine gute, offizielle Dokumentation, auf die verwiesen werden kann, erschließt die Nachnutzung der Daten zudem einer deutlich größeren Gemeine von Entwickler_innen.
+Durch eine offizielle Bereitstellung relevanter Daten würde dieser Datenbestand idealerweise 1.) größer, 2.) regelmäßiger und ggf. zuverlässiger aktualisiert. Gerade für Anwendungen, die über ein Prototypenstadium hinaus wachsen möchten, ist eine regelmäßig aktualisierte und verlässliche Datenquelle wichtig. Eine gute, offizielle Dokumentation, auf die verwiesen werden kann, erschließt die Nachnutzung der Daten zudem einer deutlich größeren Gemeinde von Entwickler_innen.
 
 Die Erfahrungen in der Zusammenarbeit mit Daten bereitstellenden Kommunen haben gezeigt, dass durch geeignete Feedbackprozesse oftmals auch die Datenqualität der veröffentlichenden Stelle verbessert werden konnte.
 
@@ -94,7 +94,7 @@ Die Community bearbeitet ein weites Feld an Problemen; in der Regel geht es daru
  * Der Veröffentlichungsprozess bzw. der Zugriff auf die Daten sollte schnell und unbürokratisch sein, um möglichst vielen Interessierten zu Beiträgen zu animieren.
  * “Done is better than perfect”: Lieber eine noch-nicht-ganz-perfekte API bereitstellen, einen noch-nicht-supertollen-Datensatz, und dann kontinuierlich daran weiterverbessern. Lieber mehrfach in Häppchen liefern, als darauf zu warten, dass es „perfekt“ wird – und am Ende doch nichts passiert)
  * *Menschliche* Schnittstellen sollten klar definiert und erreichbar sein: Es sollte von außen klar sein, wer als Ansprechpartner_in fungieren kann, und diese Ansprechperson sollte auch erreichbar sein und auf Anfragen reagieren. Und sei es nur mit einem „geht gerade nicht“, und dann Updates, wenn sich etwas tut. Das bedeutet auch unternehmensinterne Kommunikationsverbesserung, damit diese menschliche Schnittstelle auch weiß, wen sie für Datensatz/Projekt/Idee XY ansprechen kann ;) Zeitnahe Antworten sind entscheidend – wenig ist frustrierender als eine spannende Idee, die letztlich auf der Halde landet, weil das Projekt unternehmensseitig nicht vorankommt bzw. kein Feedback kommt. Klare Ansprechpartner_innen können auch für zielgerichtetes Feedback dienen, wenn die Qualität der bereitgestellten Daten durch Input aus der Community verbessert werden kann.
- * Eine deutliche Kennzeichnung (Versionstand/Datum) in den jeweiligen Datensätzen wäre sehr hilfreich, um spätere Widerholung/Aktualisierung deutlich von früheren (veralteten Daten) abheben zu können.
+ * Eine deutliche Kennzeichnung (Versionstand/Datum) in den jeweiligen Datensätzen wäre sehr hilfreich, um spätere Wiederholung/Aktualisierung deutlich von früheren (veralteten Daten) abheben zu können.
  * eine *verständliche* Beschreibung der Daten, idealerweise samt einfach nachvollziehbarer Beispiele für die Anwendung, helfen beim Verständnis der Datenformate (Beispielabfragen, Erklärungen anhand eines konkreten Zuglaufs, etc.)
 
 ## Meta: Über dieses Dokument
